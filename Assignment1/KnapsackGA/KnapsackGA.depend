@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667983769 source:d:\college\forth year\first semester\soft computing (samar)\assignments\assignment1\knapsackga\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<map>
+	<math.h>
+
